@@ -1,4 +1,5 @@
 {
     "phabricator.uri": "http://phab-test.local:80",
-    "phlq.uri": "http://web:5000"
+    "phlq.uri": "http://web:5000",
+    "phlq": true
 }
